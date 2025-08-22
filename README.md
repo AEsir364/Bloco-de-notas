@@ -1,6 +1,5 @@
 # 📝 Bloco de Notas
 
-![Prévia do App](link_para_sua_imagem_ou_gif_aqui.png)
 
 Um aplicativo mobile para Android e iOS, construído com **Flutter**. O objetivo é oferecer uma ferramenta de anotações minimalista, com foco na rapidez e em funcionalidades essenciais como criar, editar, deletar e compartilhar notas.
 
