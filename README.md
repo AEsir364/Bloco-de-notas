@@ -30,7 +30,7 @@ Para rodar este projeto, você precisará do Flutter SDK instalado e configurado
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/AEsir364/bloco-de-notas-simples.git](https://github.com/AEsir364/bloco-de-notas-simples.git)
+git clone [https://github.com/AEsir364/bloco-de-notas.git](https://github.com/AEsir364/bloco-de-notas.git)
 
 # 2. Abra a pasta do projeto no VS Code.
 
